@@ -200,3 +200,4 @@ El archivo fuente `main.nim` está organizado en las siguientes secciones concep
 *   **Backend:** Compilador GCC.
 
 ---
+main
