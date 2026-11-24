@@ -23,7 +23,6 @@
 8. [Estructura del código](#-estructura-del-código)
 9. [Decisiones de diseño](#-decisiones-de-diseño)
 10. [Tecnologías utilizadas](#-tecnologías-utilizadas)
-11. [Autores](#-autores)
 
 ---
 
@@ -201,10 +200,3 @@ El archivo fuente `main.nim` está organizado en las siguientes secciones concep
 *   **Backend:** Compilador GCC.
 
 ---
-
-## 🧑‍🎓 Autores
-
-*   **[Nombre Apellido 1]** — C.I. [xxxxxxx]
-*   **[Nombre Apellido 2]** — C.I. [xxxxxxx]
-
-*Lenguajes de Programación - Universidad de Carabobo - 2026*
